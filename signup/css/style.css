@@ -1,5 +1,6 @@
 body {
   background: #eee !important;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .wrapper {
@@ -17,6 +18,7 @@ body {
 .form-signin .form-signin-heading,
 .form-signin .checkbox {
   margin-bottom: 30px;
+  font-family: 'Montserrat', sans-serif;
 }
 .form-signin .checkbox {
   font-weight: normal;
